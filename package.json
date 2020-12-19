@@ -1,0 +1,11 @@
+{
+  "name": "@sakuraapp/room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "jackie",
+  "license": "ISC",
+  "dependencies": {
+    "@sakuraapp/service-client": "^1.0.1"
+  }
+}
